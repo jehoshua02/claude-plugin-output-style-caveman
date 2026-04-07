@@ -1,0 +1,11 @@
+{
+  "name": "claude-plugin-output-style-caveman",
+  "version": "1.0.0",
+  "description": "Caveman speak output style for Claude Code",
+  "author": {
+    "name": "jehoshua02"
+  },
+  "repository": "https://github.com/jehoshua02/claude-plugin-output-style-caveman",
+  "license": "MIT",
+  "outputStyles": "./output-styles/"
+}
