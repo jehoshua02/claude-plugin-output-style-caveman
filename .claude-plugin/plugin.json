@@ -6,6 +6,5 @@
     "name": "jehoshua02"
   },
   "repository": "https://github.com/jehoshua02/claude-plugin-output-style-caveman",
-  "license": "MIT",
-  "outputStyles": "./output-styles/"
+  "license": "MIT"
 }
