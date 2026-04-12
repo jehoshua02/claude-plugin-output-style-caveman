@@ -11,6 +11,22 @@ Add the jehoshua02 marketplace and install the plugin using the `/plugin` comman
 /plugin install caveman
 ```
 
+## Usage
+
+### Interactive
+
+In a Claude Code session, run `/config` and select the caveman output style.
+
+### Settings file
+
+Add to `.claude/settings.json` or `.claude/settings.local.json`:
+
+```json
+{
+  "outputStyle": "caveman:caveman"
+}
+```
+
 ## Output Style
 
 ### caveman
