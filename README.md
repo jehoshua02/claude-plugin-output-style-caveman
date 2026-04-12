@@ -1,4 +1,4 @@
-# claude-plugin-output-style-caveman
+# caveman
 
 Output style plugin. Makes Claude respond in caveman speak. Short. Blunt. No filler.
 
@@ -8,7 +8,7 @@ Add the jehoshua02 marketplace and install the plugin using the `/plugin` comman
 
 ```
 /plugin add-marketplace jehoshua02
-/plugin install output-style-caveman
+/plugin install caveman
 ```
 
 ## Output Style
